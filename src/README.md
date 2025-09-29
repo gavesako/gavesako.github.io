@@ -1,7 +1,3 @@
-# mdBook Quickstart
+# Gavesako texts
 
-Welcome to the demo site for mkBook Quickstart.
-
-View source:
-
-[![MichaelCurrin - mdbook-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=mdbook-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/mdbook-quickstart)
+My texts and translations and resources
